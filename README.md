@@ -16,6 +16,7 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 ![SemanticSegmentation][image2]
 
 - Training image and its corresponding Ground Truth:  
+
 [image3]: ./image_rsrcs/kitti_data.png "KittiData"
 ![KittiData][image3]
 
